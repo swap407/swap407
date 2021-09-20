@@ -31,6 +31,7 @@
 
 <a href="https://www.w3.org/html"><img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL" width="50" height="50"/></a>&nbsp;&nbsp;
 <a href="https://www.w3.org/html"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/></a>&nbsp;&nbsp;
+<a href="https://www.w3.org/html"><img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50"/></a>&nbsp;&nbsp;
 
 - Other
 
@@ -54,7 +55,10 @@
 
 
 
-
+<!---
+get icons here
+https://github.com/devicons/devicon/tree/master/icons
+--->
 
 
 <!---
