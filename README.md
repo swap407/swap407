@@ -21,14 +21,21 @@
 <a href="https://www.w3.org/html"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/></a>&nbsp;&nbsp;
 <a href="https://www.w3.org/html"><img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" alt="Dot Net" width="50" height="50"/></a>&nbsp;&nbsp;
 <a href="https://www.w3.org/html"><img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="Dot Net" width="50" height="50"/></a>&nbsp;&nbsp;
+<a href="https://www.w3.org/html"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50"/></a>&nbsp;&nbsp;
 
 - Database
 
 <a href="https://www.w3.org/html"><img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL" width="50" height="50"/></a>&nbsp;&nbsp;
+<a href="https://www.w3.org/html"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/></a>&nbsp;&nbsp;
 
 - Other
 
 <a href="https://www.w3.org/html"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" width="50" height="50"/></a>&nbsp;&nbsp;
+<a href="https://www.w3.org/html"><img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="JIRA" width="50" height="50"/></a>&nbsp;&nbsp;
+<a href="https://www.w3.org/html"><img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain-wordmark.svg" alt="WordPress" width="50" height="50"/></a>&nbsp;&nbsp;
+<a href="https://www.w3.org/html"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="50" height="50"/></a>&nbsp;&nbsp;
+<a href="https://www.w3.org/html"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="VS" width="50" height="50"/></a>&nbsp;&nbsp;
+<a href="https://www.w3.org/html"><img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" alt="Trello" width="50" height="50"/></a>&nbsp;&nbsp;
 
 ---
 
