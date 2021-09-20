@@ -10,6 +10,10 @@
 
 🧰 Toolbox
 
+- Cloud
+
+<a href="https://www.w3.org/html"><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/></a>&nbsp;&nbsp;
+
 - FrontEnd
 
 <a href="https://www.w3.org/html"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/></a>&nbsp;&nbsp;
@@ -36,6 +40,7 @@
 <a href="https://www.w3.org/html"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="50" height="50"/></a>&nbsp;&nbsp;
 <a href="https://www.w3.org/html"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="VS" width="50" height="50"/></a>&nbsp;&nbsp;
 <a href="https://www.w3.org/html"><img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" alt="Trello" width="50" height="50"/></a>&nbsp;&nbsp;
+<a href="https://www.w3.org/html"><img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" alt="SalesForce" width="50" height="50"/></a>&nbsp;&nbsp;
 
 ---
 
